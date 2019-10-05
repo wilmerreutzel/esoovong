@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baphieyood.wsogmm.net/sitemap.xml
